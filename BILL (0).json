@@ -1,0 +1,35 @@
+{
+    "1005": {
+        "Name": "5 STAR (3D) (PACK OF 24)",
+        "Price": 720,
+        "Expiry Date": "09-2022",
+        "Product Quantity": "1.08 Kg",
+        "Quantity added to Cart": 3,
+        "Total Of Product": 2160
+    },
+    "1026": {
+        "Name": "OREO (SMALL)",
+        "Price": 10,
+        "Expiry Date": "03-2022",
+        "Product Quantity": "46.3 gm",
+        "Quantity added to Cart": 5,
+        "Total Of Product": 50
+    },
+    "1015": {
+        "Name": "GEMS MINIS",
+        "Price": 100,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "142.2 gm",
+        "Quantity added to Cart": 12,
+        "Total Of Product": 1200
+    },
+    "1033": {
+        "Name": "PERK GLUCOSE (PACK OF 42)",
+        "Price": 210,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "197 gm",
+        "Quantity added to Cart": 9,
+        "Total Of Product": 1890
+    },
+    "Grand Total": 5300
+}
