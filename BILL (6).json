@@ -1,0 +1,43 @@
+{
+    "1001": {
+        "Name": "5 STAR (SMALL)",
+        "Price": 5,
+        "Expiry Date": "01-2022",
+        "Product Quantity": "10.1 gm",
+        "Quantity added to Cart": 9,
+        "Total Of Product": 45
+    },
+    "1016": {
+        "Name": "CHOCLAIRS",
+        "Price": 2,
+        "Expiry Date": "04-2022",
+        "Product Quantity": "3.5 gm",
+        "Quantity added to Cart": 5,
+        "Total Of Product": 10
+    },
+    "1029": {
+        "Name": "OREO DIPPED",
+        "Price": 60,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "150 gm",
+        "Quantity added to Cart": 3,
+        "Total Of Product": 180
+    },
+    "1039": {
+        "Name": "SILK COMBO PACK",
+        "Price": 390,
+        "Expiry Date": "09-2022",
+        "Product Quantity": "270 gm",
+        "Quantity added to Cart": 1,
+        "Total Of Product": 390
+    },
+    "1017": {
+        "Name": "CHOCLAIRS GOLD (PACK OF 25)",
+        "Price": 50,
+        "Expiry Date": "08-2022",
+        "Product Quantity": "137.5 gm",
+        "Quantity added to Cart": 2,
+        "Total Of Product": 100
+    },
+    "Grand Total": 725
+}

@@ -1,0 +1,282 @@
+{
+    "1001": {
+        "Name": "5 STAR (SMALL)",
+        "Price": 5,
+        "Quantity Available": 137,
+        "Expiry Date": "01-2022",
+        "Product Quantity": "10.1 gm"
+    },
+    "1002": {
+        "Name": "5 STAR (MEDIUM)",
+        "Price": 10,
+        "Quantity Available": 165,
+        "Expiry Date": "03-2022",
+        "Product Quantity": "22.4 gm"
+    },
+    "1003": {
+        "Name": "5 STAR (3D)",
+        "Price": 30,
+        "Quantity Available": 216,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "45 gm"
+    },
+    "1004": {
+        "Name": "5 STAR (SMALL) (PACK OF 20)",
+        "Price": 100,
+        "Quantity Available": 149,
+        "Expiry Date": "07-2022",
+        "Product Quantity": "200 gm"
+    },
+    "1005": {
+        "Name": "5 STAR (3D) (PACK OF 24)",
+        "Price": 720,
+        "Quantity Available": 120,
+        "Expiry Date": "09-2022",
+        "Product Quantity": "1.08 Kg"
+    },
+    "1006": {
+        "Name": "CELEBRATION (SMALL)",
+        "Price": 50,
+        "Quantity Available": 98,
+        "Expiry Date": "11-2022",
+        "Product Quantity": "62.2 gm"
+    },
+    "1007": {
+        "Name": "CELEBRATION (LARGE)",
+        "Price": 100,
+        "Quantity Available": 59,
+        "Expiry Date": "12-2022",
+        "Product Quantity": "183.6 gm"
+    },
+    "1008": {
+        "Name": "CELEBRATION (GIFT PACK)",
+        "Price": 150,
+        "Quantity Available": 125,
+        "Expiry Date": "10-2022",
+        "Product Quantity": "139 gm"
+    },
+    "1009": {
+        "Name": "HAPPY BIRTHDAY TIN BOX",
+        "Price": 950,
+        "Quantity Available": 26,
+        "Expiry Date": "08-2022",
+        "Product Quantity": "472 gm"
+    },
+    "1010": {
+        "Name": "WARM WISHES BOX",
+        "Price": 400,
+        "Quantity Available": 89,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "150 gm"
+    },
+    "1011": {
+        "Name": "GEMS (SMALL)",
+        "Price": 5,
+        "Quantity Available": 165,
+        "Expiry Date": "04-2022",
+        "Product Quantity": "8.9 gm"
+    },
+    "1012": {
+        "Name": "GEMS (MEDIUM)",
+        "Price": 10,
+        "Quantity Available": 145,
+        "Expiry Date": "02-2022",
+        "Product Quantity": "18.98 gm"
+    },
+    "1013": {
+        "Name": "GEMS (LARGE)",
+        "Price": 20,
+        "Quantity Available": 132,
+        "Expiry Date": "01-2022",
+        "Product Quantity": "25.28 gm"
+    },
+    "1014": {
+        "Name": "GEMS CRACKLES (PACK OF 48)",
+        "Price": 600,
+        "Quantity Available": 95,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "240 gm"
+    },
+    "1015": {
+        "Name": "GEMS MINIS",
+        "Price": 100,
+        "Quantity Available": 114,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "142.2 gm"
+    },
+    "1016": {
+        "Name": "CHOCLAIRS",
+        "Price": 2,
+        "Quantity Available": 60,
+        "Expiry Date": "04-2022",
+        "Product Quantity": "3.5 gm"
+    },
+    "1017": {
+        "Name": "CHOCLAIRS GOLD (PACK OF 25)",
+        "Price": 50,
+        "Quantity Available": 122,
+        "Expiry Date": "08-2022",
+        "Product Quantity": "137.5 gm"
+    },
+    "1018": {
+        "Name": "CHOCLAIRS GOLD (PACK OF 115)",
+        "Price": 200,
+        "Quantity Available": 82,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "655.5 gm"
+    },
+    "1019": {
+        "Name": "CHOCLAIRS GOLD JAR (PACK OF 117)",
+        "Price": 399,
+        "Quantity Available": 128,
+        "Expiry Date": "03-2022",
+        "Product Quantity": "673 gm"
+    },
+    "1020": {
+        "Name": "CHOCLAIRS GOLD COFFEE (PACK OF 110)",
+        "Price": 200,
+        "Quantity Available": 64,
+        "Expiry Date": "01-2022",
+        "Product Quantity": "605 gm"
+    },
+    "1021": {
+        "Name": "DAIRY MILK (SMALL)",
+        "Price": 5,
+        "Quantity Available": 146,
+        "Expiry Date": "09-2022",
+        "Product Quantity": "6 gm"
+    },
+    "1022": {
+        "Name": "DAIRY MILK (MEDIUM)",
+        "Price": 10,
+        "Quantity Available": 235,
+        "Expiry Date": "12-2022",
+        "Product Quantity": "13.2 gm"
+    },
+    "1023": {
+        "Name": "DAIRY MILK (LARGE)",
+        "Price": 20,
+        "Quantity Available": 152,
+        "Expiry Date": "03-2022",
+        "Product Quantity": "23 gm"
+    },
+    "1024": {
+        "Name": "DAIRY MILK (MEDIUM) (PACK OF 50)",
+        "Price": 445,
+        "Quantity Available": 125,
+        "Expiry Date": "07-2022",
+        "Product Quantity": "660 gm"
+    },
+    "1025": {
+        "Name": "DAIRY MILK (SMALL) (PACK OF 72)",
+        "Price": 330,
+        "Quantity Available": 109,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "475.2 gm"
+    },
+    "1026": {
+        "Name": "OREO (SMALL)",
+        "Price": 10,
+        "Quantity Available": 144,
+        "Expiry Date": "03-2022",
+        "Product Quantity": "46.3 gm"
+    },
+    "1027": {
+        "Name": "OREO (MEDIUM)",
+        "Price": 30,
+        "Quantity Available": 126,
+        "Expiry Date": "09-2022",
+        "Product Quantity": "120 gm"
+    },
+    "1028": {
+        "Name": "OREO (LARGE)",
+        "Price": 135,
+        "Quantity Available": 157,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "500 gm"
+    },
+    "1029": {
+        "Name": "OREO DIPPED",
+        "Price": 60,
+        "Quantity Available": 79,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "150 gm"
+    },
+    "1030": {
+        "Name": "OREO (MEDIUM) (PACK OF 10)",
+        "Price": 300,
+        "Quantity Available": 111,
+        "Expiry Date": "04-2022",
+        "Product Quantity": "1.22 Kg"
+    },
+    "1031": {
+        "Name": "PERK (SMALL)",
+        "Price": 10,
+        "Quantity Available": 159,
+        "Expiry Date": "02-2022",
+        "Product Quantity": "13 gm"
+    },
+    "1032": {
+        "Name": "PERK (PACK OF 28)",
+        "Price": 280,
+        "Quantity Available": 124,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "500 gm"
+    },
+    "1033": {
+        "Name": "PERK GLUCOSE (PACK OF 42)",
+        "Price": 210,
+        "Quantity Available": 111,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "197 gm"
+    },
+    "1034": {
+        "Name": "PERK BYTES",
+        "Price": 396,
+        "Quantity Available": 120,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "700 gm"
+    },
+    "1035": {
+        "Name": "PERK HOME TREATS",
+        "Price": 99,
+        "Quantity Available": 125,
+        "Expiry Date": "03-2022",
+        "Product Quantity": "173.7 gm"
+    },
+    "1036": {
+        "Name": "DAIRY MILK SILK",
+        "Price": 70,
+        "Quantity Available": 120,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "60 gm"
+    },
+    "1037": {
+        "Name": "FRUIT AND NUT",
+        "Price": 160,
+        "Quantity Available": 132,
+        "Expiry Date": "05-2022",
+        "Product Quantity": "137 gm"
+    },
+    "1038": {
+        "Name": "SILK HAZELNUT",
+        "Price": 70,
+        "Quantity Available": 152,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "58 gm"
+    },
+    "1039": {
+        "Name": "SILK COMBO PACK",
+        "Price": 390,
+        "Quantity Available": 150,
+        "Expiry Date": "09-2022",
+        "Product Quantity": "270 gm"
+    },
+    "1040": {
+        "Name": "SILK (GIFT PACK)",
+        "Price": 530,
+        "Quantity Available": 56,
+        "Expiry Date": "04-2022",
+        "Product Quantity": "240"
+    }
+}

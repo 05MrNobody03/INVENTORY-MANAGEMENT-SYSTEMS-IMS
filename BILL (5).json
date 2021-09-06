@@ -1,0 +1,43 @@
+{
+    "1021": {
+        "Name": "DAIRY MILK (SMALL)",
+        "Price": 5,
+        "Expiry Date": "09-2022",
+        "Product Quantity": "6 gm",
+        "Quantity added to Cart": 10,
+        "Total Of Product": 50
+    },
+    "1007": {
+        "Name": "CELEBRATION (LARGE)",
+        "Price": 100,
+        "Expiry Date": "12-2022",
+        "Product Quantity": "183.6 gm",
+        "Quantity added to Cart": 6,
+        "Total Of Product": 600
+    },
+    "1016": {
+        "Name": "CHOCLAIRS",
+        "Price": 2,
+        "Expiry Date": "04-2022",
+        "Product Quantity": "3.5 gm",
+        "Quantity added to Cart": 3,
+        "Total Of Product": 6
+    },
+    "1025": {
+        "Name": "DAIRY MILK (SMALL) (PACK OF 72)",
+        "Price": 330,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "475.2 gm",
+        "Quantity added to Cart": 5,
+        "Total Of Product": 1650
+    },
+    "1036": {
+        "Name": "DAIRY MILK SILK",
+        "Price": 70,
+        "Expiry Date": "06-2022",
+        "Product Quantity": "60 gm",
+        "Quantity added to Cart": 12,
+        "Total Of Product": 840
+    },
+    "Grand Total": 3146
+}
